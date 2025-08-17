@@ -1,0 +1,5 @@
+# Alacritty
+
+## Installation
+
+`~/.config/alacritty`
